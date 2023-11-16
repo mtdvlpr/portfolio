@@ -27,7 +27,7 @@
     "nuxt-precompress": "^0.5.9",
     "nuxt-protected-mailto": "^0.0.12",
     "nuxt-webfontloader": "^1.1.0",
-    "sharp": "^0.31.2",
+    "sharp": "^0.32.6",
     "vue": "2.7.14",
     "vue-server-renderer": "2.7.14",
     "vue-template-compiler": "2.7.14",
