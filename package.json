@@ -52,7 +52,7 @@
     "lighthouse-badges": "^1.2.19",
     "lint-staged": "^14.0.1",
     "postcss-html": "^1.6.0",
-    "prettier": "^2.8.8",
+    "prettier": "^3.2.5",
     "stylelint": "^15.11.0",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-recommended-vue": "^1.5.0",
